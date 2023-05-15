@@ -1,0 +1,13 @@
+com.example.agenda_simples.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Celso Ávila\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.agenda_simples.app-core-1.6.0-1 C:\Users\Celso Ávila\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.agenda_simples.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Celso Ávila\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.agenda_simples.app-jetified-window-1.0.0-beta04-3 C:\Users\Celso Ávila\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.agenda_simples.app-debug-4 E:\unifenas\Desenvolvimento Dispositivos Moveis\Exemplos\agenda_simples\agenda_simples\android\app\src\debug\res
+com.example.agenda_simples.app-main-5 E:\unifenas\Desenvolvimento Dispositivos Moveis\Exemplos\agenda_simples\agenda_simples\android\app\src\main\res
+com.example.agenda_simples.app-pngs-6 E:\unifenas\Desenvolvimento Dispositivos Moveis\Exemplos\agenda_simples\agenda_simples\build\app\generated\res\pngs\debug
+com.example.agenda_simples.app-resValues-7 E:\unifenas\Desenvolvimento Dispositivos Moveis\Exemplos\agenda_simples\agenda_simples\build\app\generated\res\resValues\debug
+com.example.agenda_simples.app-rs-8 E:\unifenas\Desenvolvimento Dispositivos Moveis\Exemplos\agenda_simples\agenda_simples\build\app\generated\res\rs\debug
+com.example.agenda_simples.app-mergeDebugResources-9 E:\unifenas\Desenvolvimento Dispositivos Moveis\Exemplos\agenda_simples\agenda_simples\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.agenda_simples.app-mergeDebugResources-10 E:\unifenas\Desenvolvimento Dispositivos Moveis\Exemplos\agenda_simples\agenda_simples\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.agenda_simples.app-merged_res-11 E:\unifenas\Desenvolvimento Dispositivos Moveis\Exemplos\agenda_simples\agenda_simples\build\app\intermediates\merged_res\debug
+com.example.agenda_simples.app-packaged_res-12 E:\unifenas\Desenvolvimento Dispositivos Moveis\Exemplos\agenda_simples\agenda_simples\build\sqflite\intermediates\packaged_res\debug

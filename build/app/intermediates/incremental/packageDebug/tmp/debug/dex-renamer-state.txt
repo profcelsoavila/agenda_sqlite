@@ -1,0 +1,4 @@
+#Mon May 15 11:35:21 BRT 2023
+base.0=E\:\\unifenas\\Desenvolvimento Dispositivos Moveis\\Exemplos\\agenda_simples\\agenda_simples\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
